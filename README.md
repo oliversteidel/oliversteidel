@@ -1,4 +1,13 @@
-### Hi there <img src="https://www.animierte-gifs.net/data/media/1645/animiertes-winken-bild-0080.gif" width="30px" /> I am Oliver Steidel
+### Hi there <img src="https://www.animierte-gifs.net/data/media/1645/animiertes-winken-bild-0080.gif" width="30px" /> I am Oliver Steidel.
+---
+I was a hotelworker and bartender.
+Due to the corona pandemic, I was no longer allowed to work in this industry. Since 'wait and see' was never an option for me
+I decided to take this as an opportunity to change my career. So I taught myself how to code.
+It was so much fun that I set myself the goal of becoming a web developer.
+
+Now I use my creativity to build websites and web applications instead of cocktails.
+---
+
 
 <!--
 **oliversteidel/oliversteidel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
