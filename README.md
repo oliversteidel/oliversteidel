@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://www.animierte-gifs.net/data/media/1645/animiertes-winken-bild-0080.gif" width="30px" /> I am Oliver Steidel
 
 <!--
 **oliversteidel/oliversteidel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
