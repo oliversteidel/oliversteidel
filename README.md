@@ -17,6 +17,9 @@ It was so much fun that I set myself the goal of becoming a web developer.
 <img src="https://cdn.worldvectorlogo.com/logos/npm.svg" width="50" height="50" />
 <img src="https://cdn.worldvectorlogo.com/logos/gulp-1.svg" width="50" height="50" />
 <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="50" height="50" />
+---
+
+[![Oliver's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliversteidel&hide=prs,issues,contribs&count_private=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **oliversteidel/oliversteidel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
