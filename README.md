@@ -9,7 +9,6 @@ It was so much fun that I set myself the goal of becoming a web developer.
 ---
 🧰 Toolbox <br><br>
 <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" width="50" height="50" />
-<img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" width="50" height="50" />
 <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" width="50" height="50" />
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="50" height="50" />
 <img src="https://cdn.worldvectorlogo.com/logos/jquery-1.svg" width="50" height="50" />
